@@ -1,0 +1,119 @@
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+</style>
+
+<main id="main">
+  
+  <title id="title">Zheng Chenggong AKA Koxinga</title>
+  <body>
+  <h1>Zheng Chenggong AKA Koxinga</h1>
+  <h2>The Man Who Recovered Taiwai as China's Territory</h2>
+  <div id="img-div">
+    <img src="https://img.i-scmp.com/cdn-
+
+cgi/image/fit=contain,width=1098,format=auto/sites/default/files/st
+
+yles/1200x800/public/2017/01/12/koxinganew1_27017051.jpg?
+
+itok=Jbqo4PnQ" id="image" alt="" class="center responsive-img"><br>
+    <img-caption id="img-caption">A statue of Koxinga at Anping 
+
+Fort, Tainan, Taiwan. Photo: Nora Tam</img-caption>
+  </div>
+  <div id="tribute-info">
+    <p>Zheng Chenggong (1624-1662) was a militarist and a national 
+
+hero in the late Ming (1368-1644) and early Qing (1644-1911) 
+
+dynasties.<br>
+<br>
+Zheng was born in a small Japanese coastal town. When his father 
+
+was given an official position in maritime defense by the Ming 
+
+court in 1630, Zheng was recalled to the ancestral home in Fujian 
+
+province.<br>
+<br>
+In 1645, Emperor Longwu of the Southern Ming Dynasty (1644-1683) 
+
+conferred the imperial surname, Zhu, upon Zheng Chenggong. Thus he 
+
+was also commonly called Guoxingye (lord of the imperial surname), 
+
+or its Hokkien honorific Koxinga.<br>
+<br>
+In 1646, Zheng led the Ming armies to resist the Manchu invaders of 
+
+the Qing Dynasty. With Zheng's considerable strategic and 
+
+organizational talents, he built a strong position on the Fujian 
+
+coast and set military bases at Fujian's Kinmen and Xiamen.<br>
+<br>
+In 1659, Zheng launched his most ambitious military campaign, a 
+
+maritime expedition with more than 100,000 troops up the Yangtze 
+
+River. With large Qing forces still campaigning in the south, he 
+
+achieved remarkable initial success, smashing through the lower 
+
+Yangtze defenses to the gates of Nanjing, Jiangsu province. There, 
+
+however, mistaken strategy and failure to heed his field 
+
+commanders' advice led to a disastrous defeat.<br>
+<br>
+Forced back to his original base at Xiamen, Zheng was still 
+
+unbeatable at sea. But the collapse of Ming resistance in the 
+
+southwest and the Qing’s new policy of forced inland emigration of 
+
+the coastal population put him in a dangerous position. In these 
+
+circumstances he hit upon the plan of taking Taiwan from the Dutch 
+
+as a secure rear base area.<br>
+<br>
+In 1661 he landed on Taiwan near the main Dutch stronghold at 
+
+Anping (near present-day Tainan) with a force of more than 25,000 
+
+men. After an eight-month siege, the Dutch garrison capitulated. 
+
+However, a year after this success, Zheng died.<br>
+<br>
+During Zheng's lifetime, he fought against the Qing Dynasty, drove 
+
+out the Dutch colonialists and recovered Taiwan as China’s 
+
+territory. He was commemorated on both sides of the Taiwan 
+
+Strait.</p>
+  </div>
+  <p>You can read <a href="https://en.wikipedia.org/wiki/Koxinga" 
+
+id="tribute-link" target="_blank">more about this Chinese national 
+
+hero</a>.</p>
+  
+ </body> 
+</main>
